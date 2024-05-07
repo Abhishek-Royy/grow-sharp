@@ -1,0 +1,56 @@
+ [
+    {
+      "stuText":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt autem a nobis placeat quisquam nihil, qui libero iure ducimus perspiciatis cupiditate odit dolor ex laborum repellendus iste explicabo unde quod.",
+      "stuName": "John Doe",
+      "stuImg":
+        "https://static.vecteezy.com/system/resources/thumbnails/009/397/835/small_2x/man-avatar-clipart-illustration-free-png.png",
+      "stuCompany": "Microsoft",
+      "stuPosition": "SDE"
+    },
+    {
+      "stuText":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt autem a nobis placeat quisquam nihil, qui libero iure ducimus perspiciatis cupiditate odit dolor ex laborum repellendus iste explicabo unde quod.",
+      "stuName": "Jane Doe",
+      "stuImg":
+        "https://static.vecteezy.com/system/resources/thumbnails/009/397/835/small_2x/man-avatar-clipart-illustration-free-png.png",
+      "stuCompany": "Microsoft",
+      "stuPosition": "Developer"
+    },
+    {
+      "stuText":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt autem a nobis placeat quisquam nihil, qui libero iure ducimus perspiciatis cupiditate odit dolor ex laborum repellendus iste explicabo unde quod.",
+      "stuName": "Jane Doe",
+      "stuImg":
+        "https://static.vecteezy.com/system/resources/thumbnails/009/397/835/small_2x/man-avatar-clipart-illustration-free-png.png",
+      "stuCompany": "TCS",
+      "stuPosition": "Data Analyst"
+    },
+    {
+      "stuText":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt autem a nobis placeat quisquam nihil, qui libero iure ducimus perspiciatis cupiditate odit dolor ex laborum repellendus iste explicabo unde quod.",
+      "stuName": "Jone Doe",
+      "stuImg":
+        "https://static.vecteezy.com/system/resources/thumbnails/009/397/835/small_2x/man-avatar-clipart-illustration-free-png.png",
+      "stuCompany": "Google",
+      "stuPosition": "SDE II"
+    },
+    {
+      "stuText":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt autem a nobis placeat quisquam nihil, qui libero iure ducimus perspiciatis cupiditate odit dolor ex laborum repellendus iste explicabo unde quod.",
+      "stuName": "Jone Doe",
+      "stuImg":
+        "https://static.vecteezy.com/system/resources/thumbnails/009/397/835/small_2x/man-avatar-clipart-illustration-free-png.png",
+      "stuCompany": "Infroot Solution",
+      "stuPosition": "Developer"
+    },
+    {
+      "stuText":
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt autem a nobis placeat quisquam nihil, qui libero iure ducimus perspiciatis cupiditate odit dolor ex laborum repellendus iste explicabo unde quod.",
+      "stuName": "Jone Doe",
+      "stuImg":
+        "https://static.vecteezy.com/system/resources/thumbnails/009/397/835/small_2x/man-avatar-clipart-illustration-free-png.png",
+      "stuCompany": "Accenture",
+      "stuPosition": "Developer"
+    }
+  ]

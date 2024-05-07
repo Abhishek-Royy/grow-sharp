@@ -1,0 +1,19 @@
+.main-div {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+    /* background: linear-gradient(to right,#ef715b,#fff); */
+    background: linear-gradient(to right, #bbfff8, #fff);
+    /* background:#EFEDFF; */
+}
+
+@media(max-width:640px) {
+    .ab-qr {
+        width: 491px;
+        width: auto;
+    }
+
+    .bc-qr {
+        width: 116px;
+        width: auto;
+    }
+}
